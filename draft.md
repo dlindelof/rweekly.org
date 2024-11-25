@@ -17,6 +17,8 @@ This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/)
 
 ### Insights
 
++ [xkcd and Data Science](https://davidlindelof.com/data-science-the-xkcd-edition/), my collection of all xkcd comics related to Data Science. Not R strictly speaking but I thought this could be of interest.
+
 + [Expand your Bluesky network with R and the atrrr package](https://blog.stephenturner.us/p/expand-your-bluesky-network-with-r)
 
 ![Expand your Bluesky network with R and the atrrr package](https://github.com/user-attachments/assets/66480b28-addf-4487-9586-dabd5eab0230)
